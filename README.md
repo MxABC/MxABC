@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MxABC
-- 👀 I’m interested in iOS,h5 qt
-- 🌱 I’m currently learning h5,qt
+- 👀 I’m interested in iOS,C++
+- 🌱 I’m currently learning C++
 
 
 <!---
